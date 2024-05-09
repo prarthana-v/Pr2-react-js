@@ -1,0 +1,23 @@
+.btn {
+  background-color: #28803c;
+  width: 100px;
+  height: 40px;
+  border-radius: 4px;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  margin-inline: 10px;
+}
+.count {
+  background-color: #fed0cd;
+  width: 100px;
+  height: 40px;
+  display: inline-block;
+  margin-top: 0px;
+  border: 0;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
